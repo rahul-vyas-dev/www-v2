@@ -52,7 +52,7 @@ export const raspberryLogoCards = [
     buttons: [
       {
         text: 'Read Raspbian installation guide',
-        value: 'Raspbian',
+        link: 'https://wiki.sugarlabs.org/go/Raspbian',
       },
     ],
   },
@@ -68,7 +68,7 @@ export const raspberryLogoCards = [
     buttons: [
       {
         text: 'View Fedora instructions',
-        value: 'Fedora',
+        link: 'https://github.com/sugarlabs/sugar/blob/master/docs/fedora.md',
       },
     ],
   },
@@ -84,7 +84,7 @@ export const raspberryLogoCards = [
     buttons: [
       {
         text: 'Read Debian instructions',
-        value: 'Debian',
+        link: 'https://github.com/sugarlabs/sugar/blob/master/docs/debian.md',
       },
     ],
   },
@@ -100,7 +100,7 @@ export const raspberryLogoCards = [
     buttons: [
       {
         text: 'View Ubuntu setup guide',
-        value: 'Ubuntu',
+        link: 'https://github.com/sugarlabs/sugar/blob/master/docs/ubuntu.md',
       },
     ],
   },
